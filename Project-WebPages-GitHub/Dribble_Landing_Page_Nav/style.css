@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+html,body{
+    height: 100%;
+    width: 100%;    
+}
+img{
+    margin-left: 20px;
+    height: 100px;
+}
+.nav_elme{
+    color: black;
+    font-size: 20px;
+}
+
+
+#nav{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+#nav_part1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+#button{
+width: 150px;
+display: flex;
+align-items: center;
+justify-content: center;
+gap: 10px;
+margin-right: 30px;
+}
+#button1{
+    background-color: 0;
+    border: 0;
+    font-weight: 600;
+    font-size: medium;
+}
+#button2{
+    background-color: black;
+    border-radius: 17px;
+    color: white;
+    height: 40px;
+    width: 65px;
+    border: 0;
+    font-weight: 600;
+
+}

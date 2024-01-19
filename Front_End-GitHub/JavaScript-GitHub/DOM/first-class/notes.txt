@@ -1,6 +1,0 @@
-html---structure
-css----style
-js-----logics
-
-
-#console.dir():- is used to print an object's properties in a tree-like structure in the console.
